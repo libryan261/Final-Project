@@ -1,0 +1,22 @@
+---
+title: "Final Project"
+author: "Bryan Li"
+date: "6/17/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(tidyverse)
+library(lubridate)
+library(ggplot2)
+```
+
+```{r, echo=FALSE}
+raw_data <- read_csv(file = "COVID-19 Survey Student Responses.csv.xls")
+
+  
+  
+
+```
+
